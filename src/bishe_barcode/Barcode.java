@@ -9,7 +9,7 @@ import java.io.OutputStream;
 import org.krysalis.barcode4j.impl.code39.Code39Bean;
 import org.krysalis.barcode4j.output.bitmap.BitmapCanvasProvider;
 import org.krysalis.barcode4j.tools.UnitConv;
- 
+// Barcode.. 
 public class Barcode {
  
     public static void main(String[] args) {
